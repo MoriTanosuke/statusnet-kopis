@@ -1,0 +1,17 @@
+@import "bootstrap.css";
+
+#site_nav_global_secondary li a, #input_form_nav li a {
+    display: block;
+    float: left;
+    padding: 0px 10px 1px 10px;
+    font-weight: bold;
+    line-height: 1.4em;
+}
+
+#input_form_nav li:hover a, #input_form_nav li.current a {
+  background: #efefef;
+}
+
+.input_form_nav_tab a, .input_form_nav_tab.current a {
+    text-decoration: none;
+}

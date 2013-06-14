@@ -1,4 +1,4 @@
-@import "bootstrap.css";
+@import "bootstrap-responsive.min.css";
 
 #site_nav_global_secondary li a, #input_form_nav li a {
     display: block;
